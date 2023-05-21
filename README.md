@@ -19,5 +19,9 @@ options:
                         Bruteforce wordlist
                         
                         
-Example: python main.py -m encrypt -t deneme -n 3
-         python main.py -m decrypt -t Wevt Hsve -w test.txt
+Example: 
+
+python main.py -m encrypt -t deneme -n 3
+
+python main.py -m decrypt -t Wevt Hsve -w test.txt
+         
